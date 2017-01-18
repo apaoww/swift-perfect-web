@@ -1,2 +1,2 @@
 # swift-perfect-web
-Swift Perfect Web Framework Impletementation
+Swift Perfect Web Framework Tutorial
